@@ -1,8 +1,7 @@
-<h1>Hi, I'm Dane! <br/><a <a href="https://www.linkedin.com/in/dainecryption/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Dane! 👽 <br/><a <a href="https://www.linkedin.com/in/dainecryption/">Cybersecurity Professional</a></h1>
 
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - Security Audit
   - Incident Report
@@ -12,11 +11,14 @@
   - Use Linux Commands to Manage File Permissions
   - Apply Filter to SQL Queries
   - Classify Assets Connected to a Home Network
-<h4> More WIP to come.. </h4>
-
+  - <h4><i> More projects in progress.. </i></h4>
 
 <h2> 📜 Certifications: </h2>
- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Google IT Support Specialization
+  - Google AI Essentials
+ - <h4><i> More certs in progress.. </i></h4>
 
 <h2> ☕︎ Connect with me:</h2>
 
