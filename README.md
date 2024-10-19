@@ -2,8 +2,7 @@
 
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Security Audit](https://github.com/dainecryption/SecurityAudit/blob/main/README.md)
+  - [Conduct a Security Audit](https://github.com/dainecryption/SecurityAudit/tree/main)
   - Incident Report
   - OS Hardening Techniques
   - Analysis of Network Hardening
