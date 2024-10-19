@@ -4,6 +4,16 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Security Audit
+  - Incident Report
+  - OS Hardening Techniques
+  - Analysis of Network Hardening
+  - Use NIST CSF v2 to Respond to a Security Incident
+  - Use Linux Commands to Manage File Permissions
+  - Apply Filter to SQL Queries
+  - Classify Assets Connected to a Home Network
+<h4> More WIP to come.. </h4>
+
 
 <h2> 📜 Certifications: </h2>
  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
