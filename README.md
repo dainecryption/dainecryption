@@ -14,9 +14,9 @@
 
 <h2> 📜 Certifications: </h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - Google IT Support Specialization
-  - Google AI Essentials
+  - [ISC2 Candidate](https://www.credly.com/badges/afc7cc34-5abf-4a8b-8fbc-8437e685afdf/public_url)
+  - [Google IT Support Specialization](https://www.coursera.org/account/accomplishments/professional-cert/ABCFVC8528YW)
+  - [Google AI Essentials](https://www.coursera.org/account/accomplishments/verify/ZMT4LLLDMAPV)
  - <h4><i> More certs in progress.. </i></h4>
 
 <h2> ☕︎ Connect with me:</h2>
