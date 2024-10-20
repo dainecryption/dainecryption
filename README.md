@@ -15,7 +15,7 @@
 
 <h2> 📜 Certifications: </h2>
 
-  - [ISC2 CC Domain 1 Security Principles]
+  - [ISC2 CC Domain 1 Security Principles](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%201%20Security%20Principles.pdf)
   - [ISC2 CC Course Pre-Assessment](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Pre-assessment.pdf)
   - [ISC2 Candidate](https://www.credly.com/badges/afc7cc34-5abf-4a8b-8fbc-8437e685afdf/public_url)
   - [Google IT Support Specialization](https://www.coursera.org/account/accomplishments/professional-cert/ABCFVC8528YW)
