@@ -5,7 +5,7 @@
   - [Conduct a Security Audit](https://github.com/dainecryption/SecurityAudit/tree/main)
   - Incident Report: Wireshark
   - Incident Report: tcpdump
-  - [OS Hardening Techniques](https://github.com/dainecryption/OSHardeningTechniques)
+  - [Apply OS Hardening Techniques](https://github.com/dainecryption/OSHardeningTechniques)
   - [Analysis of Network Hardening](https://github.com/dainecryption/AnalysisNetworkHardening)
   - [Use NIST CSF v2 to Respond to a Security Incident](https://github.com/dainecryption/NIST-CSF-v2)
   - Use Linux Commands to Manage File Permissions
