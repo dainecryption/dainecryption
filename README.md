@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dane! 👽 <br/><a <a href="https://www.linkedin.com/in/dainecryption/">Cybersecurity Professional</a></h1>
+<h1>Hey I'm Dane! 👽 <br/><a <a href="https://www.linkedin.com/in/dainecryption/">Cybersecurity Professional</a></h1>
 
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
