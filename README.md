@@ -9,7 +9,7 @@
   - [Analysis of Network Hardening](https://github.com/dainecryption/AnalysisNetworkHardening/blob/main/README.md)
   - [Apply OS Hardening Techniques](https://github.com/dainecryption/OSHardeningTechniques/blob/main/README.md)
   - Incident Report: tcpdump
-  - Incident Report: Wireshark
+  - Analyze Network Attack with Wireshark
   - [Conduct a Security Audit](https://github.com/dainecryption/SecurityAudit/blob/main/README.md)
   - <h4><i> More projects in progress.. </i></h4>
 
