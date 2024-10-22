@@ -2,7 +2,7 @@
 
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
-  - Classify Assets Connected to a Home Network
+  - [Classify Assets Connected to a Home Network](https://github.com/dainecryption/ClassifyAssetsConnectedToAHomeNetwork/blob/main/README.md)
   - [Apply Filter to SQL Queries](https://github.com/dainecryption/ApplyFiltersToSQLQueries/blob/main/README.md)
   - [Use Linux Commands to Manage File Permissions](https://github.com/dainecryption/Use-Linux-Commands-to-Manage-File-Permissions/blob/main/README.md)
   - [Use NIST CSF v2 to Respond to a Security Incident](https://github.com/dainecryption/NIST-CSF-v2/blob/main/README.md)
