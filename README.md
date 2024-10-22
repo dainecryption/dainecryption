@@ -3,14 +3,14 @@
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
   - Classify Assets Connected to a Home Network
-  - Apply Filter to SQL Queries
-  - [Use Linux Commands to Manage File Permissions](https://github.com/dainecryption/Use-Linux-Commands-to-Manage-File-Permissions)
-  - [Use NIST CSF v2 to Respond to a Security Incident](https://github.com/dainecryption/NIST-CSF-v2)
-  - [Analysis of Network Hardening](https://github.com/dainecryption/AnalysisNetworkHardening)
-  - [Apply OS Hardening Techniques](https://github.com/dainecryption/OSHardeningTechniques)
+  - [Apply Filter to SQL Queries](https://github.com/dainecryption/ApplyFiltersToSQLQueries/blob/main/README.md)
+  - [Use Linux Commands to Manage File Permissions](https://github.com/dainecryption/Use-Linux-Commands-to-Manage-File-Permissions/blob/main/README.md)
+  - [Use NIST CSF v2 to Respond to a Security Incident](https://github.com/dainecryption/NIST-CSF-v2/blob/main/README.md)
+  - [Analysis of Network Hardening](https://github.com/dainecryption/AnalysisNetworkHardening/blob/main/README.md)
+  - [Apply OS Hardening Techniques](https://github.com/dainecryption/OSHardeningTechniques/blob/main/README.md)
   - Incident Report: tcpdump
   - Incident Report: Wireshark
-  - [Conduct a Security Audit](https://github.com/dainecryption/SecurityAudit/tree/main)
+  - [Conduct a Security Audit](https://github.com/dainecryption/SecurityAudit/blob/main/README.md)
   - <h4><i> More projects in progress.. </i></h4>
 
 <h2> 📜 Certifications: </h2>
