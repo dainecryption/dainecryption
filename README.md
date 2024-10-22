@@ -4,7 +4,7 @@
 
   - Classify Assets Connected to a Home Network
   - Apply Filter to SQL Queries
-  - [Use Linux Commands to Manage File Permissions](https://github.com/dainecryption/dainecryption/blob/main/File-permissions-in-Linux.pdf)
+  - [Use Linux Commands to Manage File Permissions]()
   - [Use NIST CSF v2 to Respond to a Security Incident](https://github.com/dainecryption/NIST-CSF-v2)
   - [Analysis of Network Hardening](https://github.com/dainecryption/AnalysisNetworkHardening)
   - [Apply OS Hardening Techniques](https://github.com/dainecryption/OSHardeningTechniques)
