@@ -2,6 +2,7 @@
 
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
+  - <h4><i> More projects in progress.. </i></h4><br>
   - [Classify Assets Connected to a Home Network](https://github.com/dainecryption/ClassifyAssetsConnectedToAHomeNetwork/blob/main/README.md)
   - [Apply Filter to SQL Queries](https://github.com/dainecryption/ApplyFiltersToSQLQueries/blob/main/README.md)
   - [Use Linux Commands to Manage File Permissions](https://github.com/dainecryption/Use-Linux-Commands-to-Manage-File-Permissions/blob/main/README.md)
@@ -11,10 +12,11 @@
   - [Network Analysis with tcpdump](https://github.com/dainecryption/NetworkAnalysiswithtcpdump/blob/main/README.md)
   - [Analyze Network Attack with Wireshark](https://github.com/dainecryption/AnalyzeNetworkAttackwithWireshark/blob/main/README.md)
   - [Conduct a Security Audit](https://github.com/dainecryption/SecurityAudit/blob/main/README.md)
-  - <h4><i> More projects in progress.. </i></h4>
+
 
 <h2> 📜 Certifications: </h2>
 
+  - <h4><i> More certs in progress.. </i></h4><br>
   - <i>ISC2 CC Domain 4 Network Security </i>
   - [ISC2 CC Domain 3 Access Control Concepts](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%203%20Access%20Control%20Concepts.pdf)
   - [ISC2 CC Domain 2 Incident Response, Business Continuity and Disaster Recovery Concepts](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%202%20Incident%20Response%2C%20Business%20Continuity%20and%20Disaster%20Recovery%20Concepts.pdf)
@@ -24,7 +26,7 @@
   - [Cisco Security Ground School](https://github.com/dainecryption/dainecryption/blob/main/GroundSchool-cert.pdf)
   - [Google IT Support Specialization](https://www.coursera.org/account/accomplishments/professional-cert/ABCFVC8528YW)
   - [Google AI Essentials](https://www.coursera.org/account/accomplishments/verify/ZMT4LLLDMAPV)
- - <h4><i> More certs in progress.. </i></h4>
+ 
 
 <h2> ☕︎ Connect with me:</h2>
 
