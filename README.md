@@ -17,7 +17,7 @@
 <h2> 📜 Certifications: </h2>
 
   - <h4><i> More certs in progress.. </i></h4><br>
-  - <i>ISC2 CC Domain 5 Security Operations</i>
+  - [ISC2 CC Domain 5 Security Operations](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%205%20Security%20Operations.pdf)
   - [ISC2 CC Domain 4 Network Security](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%204%20Network%20Security.pdf)
   - [ISC2 CC Domain 3 Access Control Concepts](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%203%20Access%20Control%20Concepts.pdf)
   - [ISC2 CC Domain 2 Incident Response, Business Continuity and Disaster Recovery Concepts](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%202%20Incident%20Response%2C%20Business%20Continuity%20and%20Disaster%20Recovery%20Concepts.pdf)
