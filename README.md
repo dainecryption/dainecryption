@@ -17,6 +17,7 @@
 <h2> 📜 Certifications: </h2>
 
   - <h4><i> More certs in progress.. </i></h4><br>
+  -[Cert Prep Completion ISC2 CC LinkedIn Learning](https://github.com/dainecryption/dainecryption/blob/main/Cert%20Prep%20ISC2%20CC%20-CertificateOfCompletion.pdf)
   - [ISC2 CC Course Conclusion and Final Assessment](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Final%20Assessment.pdf)
   - [ISC2 CC Domain 5 Security Operations](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%205%20Security%20Operations.pdf)
   - [ISC2 CC Domain 4 Network Security](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%204%20Network%20Security.pdf)
