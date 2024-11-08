@@ -17,14 +17,8 @@
 <h2> 📜 Certifications: </h2>
 
   - <h4><i> More certs in progress.. </i></h4><br>
-  -[Cert Prep Completion ISC2 CC LinkedIn Learning](https://github.com/dainecryption/dainecryption/blob/main/Cert%20Prep%20ISC2%20CC%20-CertificateOfCompletion.pdf)
+  - [Cert Prep Completion ISC2 CC LinkedIn Learning](https://github.com/dainecryption/dainecryption/blob/main/Cert%20Prep%20ISC2%20CC%20-CertificateOfCompletion.pdf)
   - [ISC2 CC Course Conclusion and Final Assessment](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Final%20Assessment.pdf)
-  - [ISC2 CC Domain 5 Security Operations](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%205%20Security%20Operations.pdf)
-  - [ISC2 CC Domain 4 Network Security](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%204%20Network%20Security.pdf)
-  - [ISC2 CC Domain 3 Access Control Concepts](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%203%20Access%20Control%20Concepts.pdf)
-  - [ISC2 CC Domain 2 Incident Response, Business Continuity and Disaster Recovery Concepts](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%202%20Incident%20Response%2C%20Business%20Continuity%20and%20Disaster%20Recovery%20Concepts.pdf)
-  - [ISC2 CC Domain 1 Security Principles](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Domain%201%20Security%20Principles.pdf)
-  - [ISC2 CC Course Pre-Assessment](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Pre-assessment.pdf)
   - [ISC2 Candidate](https://www.credly.com/badges/afc7cc34-5abf-4a8b-8fbc-8437e685afdf/public_url)
   - [Cisco Security Ground School](https://github.com/dainecryption/dainecryption/blob/main/GroundSchool-cert.pdf)
   - [Google IT Support Specialization](https://www.coursera.org/account/accomplishments/professional-cert/ABCFVC8528YW)
