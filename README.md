@@ -2,7 +2,7 @@
 
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
-  - <h4><i> Currently taking a pause on projects to focus on certifications </i></h4><br>
+  - <h4><i> Currently taking a pause on projects to focus on certifications </i></h4>
   - [Classify Assets Connected to a Home Network](https://github.com/dainecryption/ClassifyAssetsConnectedToAHomeNetwork/blob/main/README.md)
   - [Apply Filter to SQL Queries](https://github.com/dainecryption/ApplyFiltersToSQLQueries/blob/main/README.md)
   - [Use Linux Commands to Manage File Permissions](https://github.com/dainecryption/Use-Linux-Commands-to-Manage-File-Permissions/blob/main/README.md)
@@ -16,7 +16,7 @@
 
 <h2> 📜 Certifications: </h2>
 
-  - <h4><i> Currently training for ISC2 Certified in Cybersecurity </i></h4><br>
+  - <h4><i> Currently training for ISC2 Certified in Cybersecurity </i></h4>
   - [Cert Prep Completion ISC2 CC LinkedIn Learning](https://github.com/dainecryption/dainecryption/blob/main/Cert%20Prep%20ISC2%20CC%20-CertificateOfCompletion.pdf)
   - [ISC2 CC Course Conclusion and Final Assessment](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Final%20Assessment.pdf)
   - [ISC2 Candidate](https://www.credly.com/badges/afc7cc34-5abf-4a8b-8fbc-8437e685afdf/public_url)
