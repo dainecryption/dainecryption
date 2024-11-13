@@ -20,6 +20,7 @@
   - [Cert Prep Completion ISC2 CC LinkedIn Learning](https://github.com/dainecryption/dainecryption/blob/main/Cert%20Prep%20ISC2%20CC%20-CertificateOfCompletion.pdf)
   - [ISC2 CC Course Conclusion and Final Assessment](https://github.com/dainecryption/dainecryption/blob/main/ISC2%20CC%20Final%20Assessment.pdf)
   - [ISC2 Candidate](https://www.credly.com/badges/afc7cc34-5abf-4a8b-8fbc-8437e685afdf/public_url)
+  - [Cisco Security Flight Academy](https://github.com/dainecryption/dainecryption/blob/main/FlightAcad-cert.pdf)
   - [Cisco Security Ground School](https://github.com/dainecryption/dainecryption/blob/main/GroundSchool-cert.pdf)
   - [Google IT Support Specialization](https://www.coursera.org/account/accomplishments/professional-cert/ABCFVC8528YW)
   - [Google AI Essentials](https://www.coursera.org/account/accomplishments/verify/ZMT4LLLDMAPV)
