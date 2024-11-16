@@ -2,7 +2,7 @@
 
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
-  - <h4><i> Taking a pause on projects to focus on certifications 🚧 </i></h4>
+  - <h4><i> Taking a pause on projects to focus on certifications </i> 🚧 </h4>
   - [Classify Assets Connected to a Home Network](https://github.com/dainecryption/ClassifyAssetsConnectedToAHomeNetwork/blob/main/README.md)
   - [Apply Filter to SQL Queries](https://github.com/dainecryption/ApplyFiltersToSQLQueries/blob/main/README.md)
   - [Use Linux Commands to Manage File Permissions](https://github.com/dainecryption/Use-Linux-Commands-to-Manage-File-Permissions/blob/main/README.md)
@@ -16,7 +16,7 @@
 
 <h2> 📜 Certifications: </h2>
 
-  - <h4><i> Currently training for Microsoft AZ 900 🪟</i></h4>
+  - <h4><i> Currently training for Microsoft AZ 900 </i> 🪟 </h4>
   - [ISC2 Certified in Cybersecurity](https://www.credly.com/earner/earned/badge/bd02365d-2a23-4c38-a2e7-7ed4325e9505)
   - [Cisco Security Flight Academy](https://github.com/dainecryption/dainecryption/blob/main/FlightAcad-cert.pdf)
   - [Cisco Security Ground School](https://github.com/dainecryption/dainecryption/blob/main/GroundSchool-cert.pdf)
