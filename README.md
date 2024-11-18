@@ -17,7 +17,7 @@
 <h2> 📜 Certifications: </h2>
 
   - <h4><i> Currently training for Microsoft AZ 900 </i> 🪟 </h4>
-  - [ISC2 Certified in Cybersecurity](https://www.credly.com/earner/earned/badge/bd02365d-2a23-4c38-a2e7-7ed4325e9505)
+  - [ISC2 Certified in Cybersecurity](https://github.com/dainecryption/dainecryption/blob/main/ISC2CC.pdf)
   - [Cisco Security Flight Academy](https://github.com/dainecryption/dainecryption/blob/main/FlightAcad-cert.pdf)
   - [Cisco Security Ground School](https://github.com/dainecryption/dainecryption/blob/main/GroundSchool-cert.pdf)
   - [Google IT Support Specialization](https://www.coursera.org/account/accomplishments/professional-cert/ABCFVC8528YW)
