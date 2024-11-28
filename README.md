@@ -16,7 +16,7 @@
 
 <h2> 📜 Certifications: </h2>
 
-  - <h4><i> Currently training for Microsoft AZ 900 </i> 🪟 </h4>
+  - <h4><i> Currently taking a course from University of British Columbia:Defending Against the Attacker's Mindset </i></h4>
   - [ISC2 Certified in Cybersecurity](https://github.com/dainecryption/dainecryption/blob/main/ISC2CC.pdf)
   - [Google Cybersecurity Specialization: Course 5](https://github.com/dainecryption/dainecryption/blob/main/Cybersecurity%20Course%205.pdf)
   - [Cisco Security Flight Academy](https://github.com/dainecryption/dainecryption/blob/main/FlightAcad-cert.pdf)
