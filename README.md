@@ -20,7 +20,7 @@
   - <i><b> Having fun with my 1st [Advent of Cyber from TryHackMe!](https://tryhackme.com/r/room/adventofcyber2024) </b></i>
  
   - [ISC2 Certified in Cybersecurity](https://github.com/dainecryption/dainecryption/blob/main/ISC2CC.pdf)
-  - [Google Cybersecurity Specialization: Course 5](https://github.com/dainecryption/dainecryption/blob/main/Cybersecurity%20Course%205.pdf)
+  - [Google Cybersecurity Specialization: Course 6](https://www.coursera.org/account/accomplishments/verify/OUPLNHAFPF3L)
   - [Cisco Security Flight Academy](https://github.com/dainecryption/dainecryption/blob/main/FlightAcad-cert.pdf)
   - [Cisco Security Ground School](https://github.com/dainecryption/dainecryption/blob/main/GroundSchool-cert.pdf)
   - [Google IT Support Specialization](https://www.coursera.org/account/accomplishments/professional-cert/ABCFVC8528YW)
