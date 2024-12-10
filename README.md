@@ -17,7 +17,7 @@
 <h2> 📜 Certifications: </h2>
 
   - <h4><i> Currently taking a course from University of British Columbia: Defending Against the Attacker's Mindset </i></h4>
-  - <i><b> Having fun with my 1st [Advent of Cyber from TryHackMe!](https://tryhackme.com/r/room/adventofcyber2024) </b></i>
+  - <i><b> Having fun with my 1st Capture The Flag event in [Advent of Cyber from TryHackMe!](https://tryhackme.com/r/room/adventofcyber2024) </b></i>
  
   - [ISC2 Certified in Cybersecurity](https://github.com/dainecryption/dainecryption/blob/main/ISC2CC.pdf)
   - [Google Cybersecurity Specialization: Course 6](https://www.coursera.org/account/accomplishments/verify/OUPLNHAFPF3L)
