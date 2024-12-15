@@ -3,6 +3,7 @@
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
   - <h4><i> Taking a pause on projects to focus on certifications </i> 🚧 </h4>
+  - [Python script templates](https://github.com/dainecryption/Python-Scripts)
   - [Classify Assets Connected to a Home Network](https://github.com/dainecryption/ClassifyAssetsConnectedToAHomeNetwork/blob/main/README.md)
   - [Apply Filter to SQL Queries](https://github.com/dainecryption/ApplyFiltersToSQLQueries/blob/main/README.md)
   - [Use Linux Commands to Manage File Permissions](https://github.com/dainecryption/Use-Linux-Commands-to-Manage-File-Permissions/blob/main/README.md)
