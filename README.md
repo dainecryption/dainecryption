@@ -18,10 +18,10 @@
 <h2> 📜 Certifications: </h2>
 
   - <h4><i> Currently taking a course from University of British Columbia: Defending Against the Attacker's Mindset </i></h4>
-  - <i><b> Having fun with my 1st Capture The Flag event in [Advent of Cyber from TryHackMe!](https://tryhackme.com/r/room/adventofcyber2024) </b></i>
- 
+  
+  - [TryHackMe's Advent of Cyber 2024](https://github.com/dainecryption/dainecryption/blob/main/THMAdvent2024.pdf)
+  - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/RB6BM9WR6QQK)
   - [ISC2 Certified in Cybersecurity](https://github.com/dainecryption/dainecryption/blob/main/ISC2CC.pdf)
-  - [Google Cybersecurity Specialization: Course 7](https://coursera.org/share/7522e69fd4ee40b8d3c5da28f3bfac0a)
   - [Cisco Security Flight Academy](https://github.com/dainecryption/dainecryption/blob/main/FlightAcad-cert.pdf)
   - [Cisco Security Ground School](https://github.com/dainecryption/dainecryption/blob/main/GroundSchool-cert.pdf)
   - [Google IT Support Specialization](https://www.coursera.org/account/accomplishments/professional-cert/ABCFVC8528YW)
