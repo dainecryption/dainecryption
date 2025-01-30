@@ -17,8 +17,9 @@
 
 <h2> 📜 Certifications: </h2>
 
-  - <h4><i> Currently taking a course from University of British Columbia: Defending Against the Attacker's Mindset </i></h4>
-  
+  - <h4><i> Currently training for CompTIA Security+ </i>🛡️</h4>
+
+  - [University of British Columbia Extended Learning: Defending Against the Attacker's Mindset](https://www.credential.net/fdfabd22-f9a3-4c20-98c0-5e076e9ce26c#acc.DV4de6kq)
   - [TryHackMe's Advent of Cyber 2024](https://github.com/dainecryption/dainecryption/blob/main/THMAdvent2024.pdf)
   - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/RB6BM9WR6QQK)
   - [ISC2 Certified in Cybersecurity](https://github.com/dainecryption/dainecryption/blob/main/ISC2CC.pdf)
