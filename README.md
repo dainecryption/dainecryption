@@ -1,4 +1,4 @@
-<h1>Hey I'm Dane! 👽 <br/><a <a href="https://www.linkedin.com/in/dainecryption/">ISC2 Certified in Cybersecurity</a></h1>
+<h1>Hey I'm Dane! 👽 <br/><a <a href="https://www.linkedin.com/in/dainecryption/">Comptia Security+ 701 | ISC2 Certified in Cybersecurity</a></h1>
 
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
