@@ -2,7 +2,7 @@
 
 <h2> 🛡️ Cybersecurity Projects: </h2>
 
-  - <h4><i> Taking a pause on projects to focus on certifications.</i> 🚧 </h4>
+  - <h4><i> More projects in progress</i> 🚧 </h4>
   - [Python script templates](https://github.com/dainecryption/Python-Scripts)
   - [Classify Assets Connected to a Home Network](https://github.com/dainecryption/ClassifyAssetsConnectedToAHomeNetwork/blob/main/README.md)
   - [Apply Filter to SQL Queries](https://github.com/dainecryption/ApplyFiltersToSQLQueries/blob/main/README.md)
@@ -17,8 +17,7 @@
 
 <h2> 📜 Certifications: </h2>
 
-  - <h4><i> Currently training for CCNA v1.1 (200-301) </i>🛡️</h4>
-
+  - [ITIL 4 PeopleCert](https://github.com/dainecryption/dainecryption/blob/main/ITIL4_e-cert.pdf)
   - [CompTIA Security+ SY0-071](https://www.credly.com/badges/6ddf5602-a78a-42e9-bc9a-03665139e520)
   - [University of British Columbia Extended Learning: Defending Against the Attacker's Mindset](https://www.credential.net/fdfabd22-f9a3-4c20-98c0-5e076e9ce26c#acc.DV4de6kq)
   - [TryHackMe's Advent of Cyber 2024](https://github.com/dainecryption/dainecryption/blob/main/THMAdvent2024.pdf)
