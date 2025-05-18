@@ -17,6 +17,7 @@
 
 <h2> 📜 Certifications: </h2>
 
+  - [First Aid CPR/AED Level C](https://github.com/dainecryption/dainecryption/blob/main/FirstAid_CRC06087977.pdf)
   - [ITIL 4 PeopleCert](https://github.com/dainecryption/dainecryption/blob/main/ITIL4_e-cert.pdf)
   - [CompTIA Security+ SY0-071](https://www.credly.com/badges/6ddf5602-a78a-42e9-bc9a-03665139e520)
   - [University of British Columbia Extended Learning: Defending Against the Attacker's Mindset](https://www.credential.net/fdfabd22-f9a3-4c20-98c0-5e076e9ce26c#acc.DV4de6kq)
